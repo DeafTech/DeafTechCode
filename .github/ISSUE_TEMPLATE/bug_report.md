@@ -1,8 +1,9 @@
 ---
-name: Feature request
-description: Suggest a new idea for storybook payclip.
-labels: ['status: needs triage']
-body:
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
