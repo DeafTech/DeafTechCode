@@ -1,34 +1,36 @@
+---
 name: Feature request
 description: Suggest a new idea for storybook payclip.
 labels: ['status: needs triage']
 body:
-
-- type: markdown
+---
+3
+**type: markdown**
   attributes:
   value: |
   Please provide a searchable summary of the issue in the title above.
   Thanks for contributing by creating an issue!
-- type: checkboxes
+**type: markdown**
   attributes:
   label: Duplicates
   description: Please [search the history](https://github.com/ClipMX/react.merchant-dashboard-client/issues) to see if an issue already exists for the same problem.
   options: - label: I have searched the existing issues
   required: true
-- type: checkboxes
+**type: markdown**
   attributes:
   label: Latest version
   description: We roll bug fixes, performance enhancements, and other improvements into new releases.
   options: - label: I have tested the latest version
   required: true
-- type: textarea
+**type: markdown**
   attributes:
   label: Summary
   description: Describe how it should work.
-- type: textarea
+**type: markdown**
   attributes:
   label: Examples
   description: Provide a link to the Material Design specification, other implementations, or screenshots of the expected behavior.
-- type: textarea
+**type: markdown**
   attributes:
   label: Motivation
   description: What are you trying to accomplish? How has the lack of this feature affected you? Providing context helps us come up with a solution that is more useful in the real world.
